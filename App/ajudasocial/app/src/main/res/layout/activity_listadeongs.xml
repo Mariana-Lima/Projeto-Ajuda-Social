@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".listadeongs">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Ong Casa da Criança"
+        android:background="@color/cardview_light_background"
+        android:onClick="casacrianca"
+        android:textColor="#000000"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. Ong Reviver Capão"
+        android:background="@color/cardview_light_background"
+        android:onClick="revivercapao"
+        android:textColor="#000000"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Ong Instituto Paulista"
+        android:background="@color/cardview_light_background"
+        android:onClick="institutopaulista"
+        android:textColor="#000000"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4. Ong Reviva"
+        android:background="@color/cardview_light_background"
+        android:onClick="reviva"
+        android:textColor="#000000"
+        />
+
+</LinearLayout>

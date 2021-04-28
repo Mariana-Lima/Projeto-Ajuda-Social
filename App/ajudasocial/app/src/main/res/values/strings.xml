@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">ajudasocial</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="casacrianca_missao">
+        Acolher e promover o desenvolvimento de crianças e adolescentes em situação de vulnerabilidade, formando cidadãos conscientes de seus direitos e deveres.
+    </string>
+    <string name="casacrianca_valores">
+        * Compromisso com a criança e o adolescente;\n
+        * Respeito a individualidade e diversidade;\n
+        * Ambiente acolhedor;\n
+        * Excelênca nas práticas de gestão;\n
+        * Relações éticas, neutralidade e transparência.
+    </string>
+    <string name="casacrianca_visao">
+        Ser referência nos serviços de acolhimento e de prevenção para crianças e adolescentes em situação de risco e vulnerabilidade na cidade de São Paulo.
+    </string>
+    <string name="institutopaulista_sobre">
+        Fundado em 2005, o INSTITUTO PAULISTA é uma ONG com objetivos socioambientais, projetos profissionalizantes, culturais e soluções ambientais.
+    </string>
+    <string name="institutopaulista_oferecemos">
+        * Cursos profissionalizantes gratuitos\n
+        * Laboratórios práticos em ambiente empresarial\n
+        * Indicação profissional\n
+        * Informativo ecológico\n
+        * Convênio empresarial\n
+        * Palestras em escolas\n
+        * Doação de mudas de árvores nativas\n
+        * Projeto ambiental de aquecedor solar para moradia popular.
+    </string>
+    <string name="todospodemser_sobre">
+Organização sem fins lucrativos fundada em 2013 para contribuir na formação de uma sociedade mais justa e inclusiva.
+A Reviva é responsável por implementar e desenvolver ações que tem o intuito de gerar água potável, educação e renda em comunidades remotas no Brasil e na África, contribuindo de maneira eficiente na transformação dos espaços em que atua.
+    </string>
+    <string name="expedicao_africa">
+A REVIVA tem amparado desde 2013 comunidades africanas carentes, levando para Moçambique kits escolares para incentivar a educação. Conseguimos ampliar esse auxílio em 2015, quando levamos o primeiro equipamento para tratamento de água do país, com tecnologia brasileira. O segundo equipamento pode ser levado no ano seguinte.
+    </string>
+    <string name="revivercapao_sobre">
+﻿A ONG Reviver Capão disponibiliza diversos cursos profissionalizantes e atendimento especializado com profissionais qualificado e com disposição para ajudar você no que precisar.
+    </string>
+    <string name="revivercapao_cursos">
+    *﻿ Ballet\n
+    * Computação\n
+    * Cabeleireiro\n
+    * Culinária\n
+    * Drenagem\n
+    * Depilação\n
+    * Ginastica\n
+    * Jiu-Jitsu\n
+    * Manicure\n
+    * Teatro.
+    </string>
+    <string-array name="renda">
+        <item>Até R$ 1.039,00</item>
+        <item>De R$ 1.039,00 à R$ 2.078,00</item>
+        <item>De R$ 2.079,00 à R$ 3.117,00</item>
+        <item>De R$ 3.118,00 à R$ 4.156,00</item>
+        <item>De R$ 4.157,00 à R$ 5.195,00</item>
+        <item>Mais que R$ 5.195,00</item>
+    </string-array>
+    <string-array name="escolaridade">
+        <item>Ensino Fundamental</item>
+        <item>Ensino Médio Incompleto</item>
+        <item>Ensino Médio Completo</item>
+        <item>Ensino Técnico</item>
+        <item>Ensino Superior Incompleto</item>
+        <item>Ensino Superior Completo</item>
+        <item>Pós Graduação</item>
+        <item>Mestrado</item>
+        <item>Doutorado</item>
+    </string-array>
+    <string-array name="ongs">
+        <item>Casa Criança</item>
+        <item>Reviver Capão</item>
+        <item>Instituto Paulista</item>
+        <item>Ong Reviva</item>
+    </string-array>
+</resources>

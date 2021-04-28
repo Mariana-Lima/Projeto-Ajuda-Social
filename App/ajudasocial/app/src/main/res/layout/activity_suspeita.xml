@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/cardview_light_background"
+    tools:context=".suspeita">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bauhaus93"
+        android:textColor="#E3BC1117"
+        android:text="Procure um Posto de\nSaúde"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="20dp"
+        android:drawableLeft="@mipmap/alerta"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <Button
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Postos Próximos"
+        android:onClick="postosproximos"
+        />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/postos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="@font/bauhaus93"
+                android:textColor="#E30FBF12"
+                android:text="Siga as Orientações"
+                android:textSize="45sp"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:id="@+id/maos"
+                android:layout_below="@id/postos"
+                android:layout_marginTop="20dp"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:background="@mipmap/maos"
+                />
+
+            <TextView
+                android:layout_below="@id/postos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="60dp"
+                android:layout_toRightOf="@id/maos"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:text="Lave as mãos com água e sabão ou use álcool em gel"
+                />
+
+            <TextView
+                android:layout_below="@id/maos"
+                android:id="@+id/tossir"
+                android:layout_marginTop="20dp"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:background="@mipmap/tossir"
+                />
+
+            <TextView
+                android:layout_below="@id/maos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="60dp"
+                android:layout_toRightOf="@id/tossir"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:text="Cubra o nariz e boca ao espirrar ou tossir."
+                />
+
+            <TextView
+                android:layout_below="@id/tossir"
+                android:id="@+id/aglomeracoes"
+                android:layout_marginTop="20dp"
+                android:layout_width="125dp"
+                android:layout_height="120dp"
+                android:background="@mipmap/aglomeracoes"
+                />
+
+            <TextView
+                android:layout_below="@id/tossir"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="45dp"
+                android:layout_toRightOf="@id/aglomeracoes"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:text="Evite aglomerações, principalmente se estiver doente."
+                />
+
+            <TextView
+                android:layout_below="@id/aglomeracoes"
+                android:id="@+id/ambientes"
+                android:layout_marginTop="20dp"
+                android:layout_width="125dp"
+                android:layout_height="120dp"
+                android:background="@mipmap/ambientes"
+                />
+
+            <TextView
+                android:layout_below="@id/aglomeracoes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                android:layout_toRightOf="@id/aglomeracoes"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:text="Mantenha os ambientes bem ventilados."
+                />
+
+            <TextView
+                android:layout_below="@id/ambientes"
+                android:id="@+id/objetos"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_width="125dp"
+                android:layout_height="120dp"
+                android:background="@mipmap/objetos"
+                />
+
+            <TextView
+                android:layout_below="@id/ambientes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                android:layout_marginBottom="20dp"
+                android:layout_toRightOf="@id/aglomeracoes"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#000000"
+                android:text="Não compartilhe objetos pessoais."
+                />
+
+            <Button
+                android:layout_below="@id/objetos"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:text="Tela Inicial"
+                android:onClick="telainicial"
+                />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

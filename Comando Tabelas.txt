@@ -1,0 +1,75 @@
+Tabela Empresa
+======================================
+CREATE TABLE empresa (
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+razao_social VARCHAR(50) NOT NULL,
+inscricao CHAR(11) NOT NULL,
+cnpj TEXT NOT NULL,
+email TEXT NOT NULL,
+telefone CHAR(10),
+celular CHAR(11),
+endereco VARCHAR(50),
+numero INT(6),
+complemento TEXT,
+cep CHAR(8)
+);
+======================================
+
+Tabela Trabalhador
+======================================
+CREATE TABLE Trabalhador (
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(50) NOT NULL,
+rg CHAR(9) NOT NULL,
+cpf CHAR(11) NOT NULL,
+nascimento TEXT NOT NULL,
+escolaridade TEXT NOT NULL,
+genero TEXT NOT NULL,
+email TEXT NOT NULL,
+telefone CHAR(10),
+celular CHAR(11),
+endereco VARCHAR(50),
+numero INT(6),
+complemento TEXT,
+cep CHAR(8),
+renda_familiar TEXT NOT NULL,
+pessoas_casa TEXT NOT NULL
+);
+======================================
+
+Tabela Voluntário
+======================================
+CREATE TABLE voluntario(
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+nome VARCHAR(50) NOT NULL,
+rg CHAR(9) NOT NULL,
+cpf CHAR(11) NOT NULL,
+nascimento TEXT NOT NULL,
+escolaridade TEXT NOT NULL,
+genero TEXT NOT NULL,
+email TEXT NOT NULL,
+telefone CHAR(10),
+celular CHAR(11),
+endereco VARCHAR(50),
+numero INT(6),
+complemento TEXT,
+cep CHAR(8)
+);
+======================================
+
+
+Tabela Oportunidades
+======================================
+CREATE TABLE oportunidades(
+id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+cpf CHAR(11) NOT NULL,
+tipo VARCHAR(20),
+nome VARCHAR(50) NOT NULL,
+data DATE NOT NULL,
+horario TEXT NOT NULL,
+descricao VARCHAR(50) NOT NULL,
+telefone CHAR(10),
+email TEXT,
+modalidade VARCHAR(20)
+);
+======================================

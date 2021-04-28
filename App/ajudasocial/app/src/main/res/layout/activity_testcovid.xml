@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".testcovid">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/teste_covid"
+        android:gravity="center"
+        android:fontFamily="@font/bauhaus93"
+        android:text=" Auto Avaliação Covid 19 "
+        android:drawableRight="@mipmap/covid"
+        android:textColor="#E3BF0F35"
+        android:textSize="30sp"
+        />
+
+    <com.tomer.fadingtextview.FadingTextView
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/fading_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/titulo"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:textColor="#0F32BD"
+        app:texts="@array/example_one"
+        app:timeout="60000"
+        />
+
+    <ImageView
+        android:id="@+id/imagens2"
+        android:layout_below="@id/fading_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_width="1000px"
+        android:layout_height="456px"
+        android:background="@mipmap/febre"
+        />
+
+    <ImageView
+        android:id="@+id/imagens"
+        android:layout_below="@id/fading_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_width="1000px"
+        android:layout_height="456px"
+        />
+
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Teste para Texto"
+        android:textSize="30sp"
+        android:textColor="#0F32BD"
+        /> -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/linlayout"
+        android:layout_marginBottom="20dp"
+        android:gravity="bottom"
+        >
+
+        <TextView
+            android:id="@+id/sintomas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="20dp"
+            android:textColor="#000000"
+            android:text=" Sintomas: "
+            android:textSize="17sp"
+            />
+
+        <TextView
+            android:id="@+id/febreview"
+            android:layout_below="@id/sintomas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Febre: "
+            android:textColor="#000000"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/febre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sintomas"
+            android:layout_toRightOf="@id/febreview"
+            android:textColor="#000000"
+            android:text=""
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/dorcabeview"
+            android:layout_below="@id/febreview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Dor de Cabeça: "
+            android:textColor="#000000"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/dorcabeca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/febreview"
+            android:layout_toRightOf="@id/dorcabeview"
+            android:textColor="#000000"
+            android:text=""
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/exaustaoview"
+            android:layout_below="@id/dorcabeca"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Exaustão: "
+            android:textColor="#000000"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/exaustao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/dorcabeca"
+            android:layout_toRightOf="@id/exaustaoview"
+            android:textColor="#000000"
+            android:text=""
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/congestaoview"
+            android:layout_below="@id/exaustao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Congestão ou Espirros: "
+            android:textColor="#000000"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/congestao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/exaustao"
+            android:layout_toRightOf="@id/congestaoview"
+            android:textColor="#000000"
+            android:text=""
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/tosseview"
+            android:layout_below="@id/congestao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Tosse: "
+            android:textColor="#000000"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/tosse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/congestao"
+            android:layout_toRightOf="@id/tosseview"
+            android:textColor="#000000"
+            android:text=""
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/faltaarview"
+            android:layout_below="@id/tosse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Falta de Ar: "
+            android:textColor="#000000"
+            android:textSize="15sp"
+            />
+
+        <TextView
+            android:id="@+id/faltaar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tosse"
+            android:layout_toRightOf="@id/faltaarview"
+            android:textColor="#000000"
+            android:text=""
+            android:textSize="15sp"
+            />
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linlayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imagens"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_botaosim"
+            android:layout_marginRight="50dp"
+            android:onClick="question2"
+            android:text="SIM" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_botaonao"
+            android:onClick="question2"
+            android:text="NÃO" />
+
+    </LinearLayout>
+
+</RelativeLayout>

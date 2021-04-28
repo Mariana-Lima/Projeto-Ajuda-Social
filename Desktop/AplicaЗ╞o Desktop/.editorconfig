@@ -1,0 +1,19 @@
+﻿[*.cs]
+
+# IDE0008: Usar o tipo explícito
+csharp_style_var_elsewhere = true:error
+
+# IDE0008: Usar o tipo explícito
+csharp_style_var_for_built_in_types = false:error
+
+# IDE0008: Usar o tipo explícito
+csharp_style_var_when_type_is_apparent = false:error
+
+# CS0168: A variável foi declarada, mas nunca foi usada
+dotnet_diagnostic.CS0168.severity = error
+
+# IDE0055: Corrigir a formatação
+dotnet_diagnostic.IDE0055.severity = none
+
+# IDE0001: Simplificar Nomes
+dotnet_diagnostic.IDE0001.severity = none

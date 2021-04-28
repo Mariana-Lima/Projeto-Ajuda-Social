@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    >
+
+    <TextView
+        android:id="@+id/txtview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="@font/bauhaus93"
+        android:paddingTop="20dp"
+        android:text="AJUDA"
+        android:textColor="#00B505"
+        android:textSize="60sp" />
+
+    <TextView
+        android:id="@+id/txtview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="120dp"
+        android:fontFamily="@font/bauhaus93"
+        android:layout_below="@id/txtview"
+        android:text="+ "
+        android:textColor="#368AA3"
+        android:textSize="60sp" />
+
+    <TextView
+        android:id="@+id/txtview3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview"
+        android:layout_toRightOf="@id/txtview2"
+        android:fontFamily="@font/bauhaus93"
+        android:paddingBottom="15dp"
+        android:text="SOCIAL"
+        android:textColor="#00B505"
+        android:textSize="60sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtview3"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/botao_customizado"
+        android:fontFamily="@font/architects_daughter"
+        android:gravity="center"
+        android:text=" Logar "
+        android:onClick="consulta"
+        android:drawableRight="@mipmap/login"
+        android:textColor="@color/design_default_color_secondary_variant"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/buttoncadastro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/botao_customizado"
+        android:fontFamily="@font/architects_daughter"
+        android:gravity="center"
+        android:text=" Cadastre-se "
+        android:onClick="abrircadastro"
+        android:drawableRight="@mipmap/cadastro"
+        android:textColor="@color/design_default_color_secondary_variant"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttoncadastro"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/botao_customizado"
+        android:drawableRight="@mipmap/solied"
+        android:fontFamily="@font/architects_daughter"
+        android:gravity="center"
+        android:onClick="soliedariedade"
+        android:text=" SOLIDARIEDADE"
+        android:textColor="#FF5722"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/botao_customizado"
+        android:fontFamily="@font/architects_daughter"
+        android:gravity="center"
+        android:onClick="covid"
+        android:text=" covid 19 "
+        android:drawableRight="@mipmap/covid"
+        android:textColor="#FF0000"
+        android:textSize="40sp" />
+
+    <Button
+        android:id="@+id/buttonsaiba"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button4"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/botao_customizado"
+        android:fontFamily="@font/architects_daughter"
+        android:gravity="center"
+        android:text=" saiba mais"
+        android:drawableRight="@mipmap/info2"
+        android:textColor="#5F0A6E"
+        android:textSize="40sp" />
+
+</RelativeLayout>

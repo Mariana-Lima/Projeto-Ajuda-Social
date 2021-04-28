@@ -1,0 +1,125 @@
+C:\Users\Jeferson Silva\source\repos\Aplicação\bin\Debug\Aplicação.exe.config
+C:\Users\Jeferson Silva\source\repos\Aplicação\bin\Debug\Aplicação.exe
+C:\Users\Jeferson Silva\source\repos\Aplicação\bin\Debug\Aplicação.pdb
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.csprojAssemblyReference.cache
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.FrmPrincipal.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.Properties.Resources.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.csproj.GenerateResource.cache
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.exe
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.pdb
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmConta.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmGerenciador.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmManual.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmSobre.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmCursos.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmOficinas.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmProjetos.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmEmprego.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação\obj\Debug\Aplicação.frmConectar.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.csprojAssemblyReference.cache
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmConectar.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmConta.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.FrmPrincipal.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmCursos.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmOficinas.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmProjetos.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmGerenciador.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmManual.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.Properties.Resources.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmSobre.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.csproj.GenerateResource.cache
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.exe
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.pdb
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\bin\Debug\Aplicação.exe.config
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\bin\Debug\Aplicação.exe
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\bin\Debug\Aplicação.pdb
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmEmpregos.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmMembros.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmConsulta.resources
+C:\Users\Jeferson Silva\source\repos\Aplicação - Copia\obj\Debug\Aplicação.frmVoluntarios.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Aplicação.exe.config
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Aplicação.exe
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Aplicação.pdb
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\MySql.Data.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Google.Protobuf.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Zstandard.Net.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Renci.SshNet.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\System.Buffers.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\System.Memory.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\MySql.Data.xml
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.csprojAssemblyReference.cache
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.exe.config
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmConectar.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmConta.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.FrmPrincipal.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmConsulta.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmCursos.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmEmpregos.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmMembros.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmOficinas.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmProjetos.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmVoluntarios.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmGerenciador.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmManual.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.Properties.Resources.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.frmSobre.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.csproj.GenerateResource.cache
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.csproj.CopyComplete
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.exe
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.pdb
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Aplicação.exe.manifest
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\bin\Debug\Aplicação.application
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.exe.manifest
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação - Copia\obj\Debug\Aplicação.application
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Aplicação.exe.config
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Aplicação.exe.manifest
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Aplicação.application
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Aplicação.exe
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Aplicação.pdb
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\MySql.Data.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Google.Protobuf.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Zstandard.Net.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\Renci.SshNet.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\System.Buffers.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\System.Memory.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\bin\Debug\MySql.Data.xml
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.csprojAssemblyReference.cache
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.exe.config
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmConectar.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmConta.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.FrmPrincipal.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmConsulta.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmCursos.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmEmpregos.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmMembros.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmOficinas.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmProjetos.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmVoluntarios.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmGerenciador.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmManual.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.Properties.Resources.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.frmSobre.resources
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.csproj.GenerateResource.cache
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.exe.manifest
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.application
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.csproj.CopyComplete
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.exe
+C:\Users\Danilo\Desktop\Aplicação - Copia\Aplicação Desktop\obj\Debug\Aplicação.pdb
